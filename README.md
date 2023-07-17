@@ -1,6 +1,6 @@
 # Tindog Application
 
-Tindog is a fully responsive web application designed for dog lovers. The app was created as part of The Complete 2022 Web Development Bootcamp on Udemy, taught by Dr. Angela Yu. It showcases proficiency in using Bootstrap to build responsive and appealing UI components.
+Tindog is a fully responsive web application designed for dog lovers. It showcases proficiency in using Bootstrap to build responsive and appealing UI components.
 
 ## Features
 
